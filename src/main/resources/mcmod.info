@@ -1,0 +1,16 @@
+[
+{
+  "modid": "stm",
+  "name": "Tutorial Mod",
+  "description": "A cool mod to help people code.",
+  "version": "${1.0}",
+  "mcversion": "${1.11.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Skingrapht"],
+  "credits": "me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
